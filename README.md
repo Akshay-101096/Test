@@ -2,7 +2,7 @@
 # E - COMMERCE WEB PROJECT IN SPRING BOOT
 # Features
 
-. ⚙️Spring Mvc, JDBC , Jsp Servlet
+* ⚙️Spring Mvc, JDBC , Jsp Servlet
 . 📝ADMIN MODULE + USER MODULE
 # ➕CRUD OPERATION
 # 🌱Easy to understand beginner friendly.
